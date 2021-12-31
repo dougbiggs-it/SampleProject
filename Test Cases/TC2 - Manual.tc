@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Test case #2</description>
+   <name>TC2 - Manual</name>
+   <tag>Smoke Test</tag>
+   <comment></comment>
+   <testCaseGuid>90588331-3134-41e7-9fe6-3d51d0a604dc</testCaseGuid>
+</TestCaseEntity>

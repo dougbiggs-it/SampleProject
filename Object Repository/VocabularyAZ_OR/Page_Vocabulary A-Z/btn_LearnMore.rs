@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>btn_LearnMore</description>
+   <name>btn_LearnMore</name>
+   <tag></tag>
+   <elementGuidId>1deb5e0b-d858-485a-86d4-c38c51c27473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/laz-modal/ng-transclude/div/div[3]/button[1]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/laz-modal/ng-transclude/div/div[3]/button[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>message-box-response btn ng-binding ng-scope btn-fauxLink js-first-item</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/laz-modal/ng-transclude/div/div[3]/button[1]</value>
+   </webElementProperties>
+</WebElementEntity>

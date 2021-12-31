@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Mobile test case #1</description>
+   <name>TC3 - Mobile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2ca7dd5-922d-4d62-9582-eff98ee6d167</testCaseGuid>
+</TestCaseEntity>
